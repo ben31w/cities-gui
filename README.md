@@ -1,9 +1,9 @@
 # cities-gui
-Cities is a JFrame GUI that displays the name, state, and population of  large US cities in a scroll-able text area. 
+Cities is a GUI that displays the name, state, and population of major US cities.
 
-There are several options to  customize the way the cities are displayed. 
-Users can choose to display only cities from certain states using a combo box/drop down menu. 
-Users can also sort the cities by name or by population.
+There are several options to customize the way the cities are displayed. 
+Users can filter the list so that only cities from a particlar state are displayed.
+The cities can also be sorted by name or by population.
 
 
 ## Sorted by city name
